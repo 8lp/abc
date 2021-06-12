@@ -15,5 +15,15 @@
     <link rel="stylesheet" href="css\font-awesome.min.css">
   </head>
   <body>
+        <div id="content">
+			<noscript>
+				<br>
+				<div>
+				<span class="red">animethighs</span>:<span class="blue">~</span># ./nojs.sh
+					<p>Please enable JavaScript to use this site.</p>
+				</div>
+			</noscript>
+		</div>
+      </div>	    
   </body>
 </html>
